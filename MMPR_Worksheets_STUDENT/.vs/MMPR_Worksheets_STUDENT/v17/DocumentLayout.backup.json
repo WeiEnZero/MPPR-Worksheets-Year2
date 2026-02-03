@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wei En\\Documents\\Unity Worlds\\MMPR_Worksheets_STUDENT\\MMPR_Worksheets_STUDENT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8D26AB-9EB6-5C85-FA0A-3ED21EE660F7}|Assembly-CSharp.csproj|c:\\users\\wei en\\documents\\unity worlds\\mmpr_worksheets_student\\mmpr_worksheets_student\\assets\\01_vectors_worksheet\\soccer\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8D26AB-9EB6-5C85-FA0A-3ED21EE660F7}|Assembly-CSharp.csproj|solutionrelative:assets\\01_vectors_worksheet\\soccer\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8D26AB-9EB6-5C85-FA0A-3ED21EE660F7}|Assembly-CSharp.csproj|C:\\Users\\Wei En\\Documents\\Unity Worlds\\MMPR_Worksheets_STUDENT\\MMPR_Worksheets_STUDENT\\assets\\01_vectors_worksheet\\soccer\\soccerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8D26AB-9EB6-5C85-FA0A-3ED21EE660F7}|Assembly-CSharp.csproj|solutionrelative:assets\\01_vectors_worksheet\\soccer\\soccerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8D26AB-9EB6-5C85-FA0A-3ED21EE660F7}|Assembly-CSharp.csproj|C:\\Users\\Wei En\\Documents\\Unity Worlds\\MMPR_Worksheets_STUDENT\\MMPR_Worksheets_STUDENT\\assets\\01_vectors_worksheet\\mario\\mario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8D26AB-9EB6-5C85-FA0A-3ED21EE660F7}|Assembly-CSharp.csproj|solutionrelative:assets\\01_vectors_worksheet\\mario\\mario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8D26AB-9EB6-5C85-FA0A-3ED21EE660F7}|Assembly-CSharp.csproj|C:\\Users\\Wei En\\Documents\\Unity Worlds\\MMPR_Worksheets_STUDENT\\MMPR_Worksheets_STUDENT\\assets\\01_vectors_worksheet\\vectorpart1\\vectorexercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8D26AB-9EB6-5C85-FA0A-3ED21EE660F7}|Assembly-CSharp.csproj|solutionrelative:assets\\01_vectors_worksheet\\vectorpart1\\vectorexercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8D26AB-9EB6-5C85-FA0A-3ED21EE660F7}|Assembly-CSharp.csproj|C:\\Users\\Wei En\\Documents\\Unity Worlds\\MMPR_Worksheets_STUDENT\\MMPR_Worksheets_STUDENT\\assets\\math\\hvector2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8D26AB-9EB6-5C85-FA0A-3ED21EE660F7}|Assembly-CSharp.csproj|solutionrelative:assets\\math\\hvector2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoccerPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Wei En\\Documents\\Unity Worlds\\MMPR_Worksheets_STUDENT\\MMPR_Worksheets_STUDENT\\Assets\\01_VECTORS_worksheet\\Soccer\\SoccerPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\01_VECTORS_worksheet\\Soccer\\SoccerPlayer.cs",
+              "ToolTip": "C:\\Users\\Wei En\\Documents\\Unity Worlds\\MMPR_Worksheets_STUDENT\\MMPR_Worksheets_STUDENT\\Assets\\01_VECTORS_worksheet\\Soccer\\SoccerPlayer.cs",
+              "RelativeToolTip": "Assets\\01_VECTORS_worksheet\\Soccer\\SoccerPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T04:26:38.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Wei En\\Documents\\Unity Worlds\\MMPR_Worksheets_STUDENT\\MMPR_Worksheets_STUDENT\\Assets\\01_VECTORS_worksheet\\Soccer\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\01_VECTORS_worksheet\\Soccer\\Player.cs",
+              "ToolTip": "C:\\Users\\Wei En\\Documents\\Unity Worlds\\MMPR_Worksheets_STUDENT\\MMPR_Worksheets_STUDENT\\Assets\\01_VECTORS_worksheet\\Soccer\\Player.cs",
+              "RelativeToolTip": "Assets\\01_VECTORS_worksheet\\Soccer\\Player.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T03:52:21.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mario.cs",
+              "DocumentMoniker": "C:\\Users\\Wei En\\Documents\\Unity Worlds\\MMPR_Worksheets_STUDENT\\MMPR_Worksheets_STUDENT\\Assets\\01_VECTORS_worksheet\\Mario\\Mario.cs",
+              "RelativeDocumentMoniker": "Assets\\01_VECTORS_worksheet\\Mario\\Mario.cs",
+              "ToolTip": "C:\\Users\\Wei En\\Documents\\Unity Worlds\\MMPR_Worksheets_STUDENT\\MMPR_Worksheets_STUDENT\\Assets\\01_VECTORS_worksheet\\Mario\\Mario.cs",
+              "RelativeToolTip": "Assets\\01_VECTORS_worksheet\\Mario\\Mario.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T04:31:12.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VectorExercises.cs",
+              "DocumentMoniker": "C:\\Users\\Wei En\\Documents\\Unity Worlds\\MMPR_Worksheets_STUDENT\\MMPR_Worksheets_STUDENT\\Assets\\01_VECTORS_worksheet\\VectorPart1\\VectorExercises.cs",
+              "RelativeDocumentMoniker": "Assets\\01_VECTORS_worksheet\\VectorPart1\\VectorExercises.cs",
+              "ToolTip": "C:\\Users\\Wei En\\Documents\\Unity Worlds\\MMPR_Worksheets_STUDENT\\MMPR_Worksheets_STUDENT\\Assets\\01_VECTORS_worksheet\\VectorPart1\\VectorExercises.cs",
+              "RelativeToolTip": "Assets\\01_VECTORS_worksheet\\VectorPart1\\VectorExercises.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswIwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T04:32:29.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HVector2D.cs",
+              "DocumentMoniker": "C:\\Users\\Wei En\\Documents\\Unity Worlds\\MMPR_Worksheets_STUDENT\\MMPR_Worksheets_STUDENT\\Assets\\Math\\HVector2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Math\\HVector2D.cs",
+              "ToolTip": "C:\\Users\\Wei En\\Documents\\Unity Worlds\\MMPR_Worksheets_STUDENT\\MMPR_Worksheets_STUDENT\\Assets\\Math\\HVector2D.cs",
+              "RelativeToolTip": "Assets\\Math\\HVector2D.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T03:51:48.635Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
